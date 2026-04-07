@@ -13,6 +13,6 @@ FROM (
         SUM(valor_pago) AS receita_total,
         LAG(SUM(valor_pago)) OVER (ORDER BY mes_referencia) AS receita_mes_anterior
     FROM pagamentos
-    GROUP BY DATE_FORMAT(mes_referencia, '%Y-%m')
+    GROUP BY DATE_FORMAT(mes_referencia, '%Y-%m'), mes_referencia
 ) AS base
 ORDER BY mes_referencia;
