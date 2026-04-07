@@ -1,0 +1,16 @@
+nome,plano,status,ltv_total
+"Empresa Delta",Enterprise,ativo,2396.00
+"Empresa Eta",Enterprise,cancelado,1797.00
+"Empresa Alpha",Pro,ativo,1794.00
+"Empresa Gamma",Pro,cancelado,1495.00
+"Empresa Zeta",Pro,ativo,897.00
+"Empresa Kappa",Enterprise,ativo,599.00
+"Empresa Omicron",Enterprise,cancelado,599.00
+"Empresa Iota",Pro,cancelado,598.00
+"Empresa Beta",Basic,cancelado,594.00
+"Empresa Epsilon",Basic,cancelado,396.00
+"Empresa Mu",Pro,cancelado,299.00
+"Empresa Xi",Pro,ativo,299.00
+"Empresa Theta",Basic,ativo,198.00
+"Empresa Lambda",Basic,ativo,99.00
+"Empresa Nu",Basic,ativo,99.00
