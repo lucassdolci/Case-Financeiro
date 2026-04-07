@@ -1,9 +1,9 @@
 nome,status,plano,total_pago
-"Empresa Delta",ativo,Enterprise,2396.00
-"Empresa Alpha",ativo,Pro,1794.00
-"Empresa Zeta",ativo,Pro,897.00
-"Empresa Kappa",ativo,Enterprise,599.00
-"Empresa Xi",ativo,Pro,299.00
-"Empresa Theta",ativo,Basic,198.00
-"Empresa Lambda",ativo,Basic,99.00
-"Empresa Nu",ativo,Basic,99.00
+"Empresa Lambda",ativo,Basic,"99,00"
+"Empresa Nu",ativo,Basic,"99,00"
+"Empresa Zeta",ativo,Pro,"897,00"
+"Empresa Kappa",ativo,Enterprise,"599,00"
+"Empresa Xi",ativo,Pro,"299,00"
+"Empresa Delta",ativo,Enterprise,"2396,00"
+"Empresa Theta",ativo,Basic,"198,00"
+"Empresa Alpha",ativo,Pro,"1794,00"

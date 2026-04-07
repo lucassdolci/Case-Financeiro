@@ -1,4 +1,4 @@
 plano,total_pagamentos,ticket_medio
-Enterprise,9,599.00
-Pro,18,299.00
-Basic,14,99.00
+Basic,14,"99,00"
+Enterprise,9,"599,00"
+Pro,18,"299,00"
