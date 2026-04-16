@@ -93,3 +93,6 @@ A queda de julho se dá pela falta de novos contratos Enterprise. Sem novos cont
 |---|---|
 | 02_receita_mensal | Receita total por mês |
 | 03_variacao_percentual | Variação
+
+## Links
+- 📊 [Portfólio no Notion](https://lean-sandpaper-fc5.notion.site/Case-Financeiro-3408f115aff58067983cee99404fe407)
