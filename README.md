@@ -89,10 +89,11 @@ Empresa Delta é o cliente mais valioso, com LTV 33% acima do segundo colocado. 
 A queda de julho se dá pela falta de novos contratos Enterprise. Sem novos contratos entrando, o impacto na receita foi imediato e considerável.
 
 ## Análises Realizadas
-| Arquivo | Descrição |
-|---|---|
-| 02_receita_mensal | Receita total por mês |
-| 03_variacao_percentual | Variação
 
-## Links
-- 📊 [Portfólio no Notion](https://lean-sandpaper-fc5.notion.site/Case-Financeiro-3408f115aff58067983cee99404fe407)
+| Arquivo | Descrição |
+| --- | --- |
+| 02_receita_mensal | Receita total por mês |
+| 03_variacao_percentual | Variação percentual mês a mês |
+| 04_churn_por_plano | Cancelamentos agrupados por plano |
+| 05_ltv_clientes | LTV e ticket médio por cliente |
+| 06_causa_raiz | Receita por plano — identificação da queda |
