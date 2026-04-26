@@ -1,4 +1,4 @@
-# Case Financeiro — Análise de Receita, Churn e LTV
+ # Case Financeiro — Análise de Receita, Churn e LTV
 
 ## Contexto
 Análise financeira de uma empresa SaaS de gestão para pequenos negócios.
