@@ -14,8 +14,8 @@ entender suas causas e propor recomendações baseadas em dados.
 - Power BI — visualização e dashboard
 
 ## Links
-- 📊 [Portfólio no Notion](LINK_DO_NOTION_AQUI)
-- 💻 [Repositório GitHub](https://github.com/lucassdolci/Case-Financeiro)
+- [Portfólio no Notion](LINK_DO_NOTION_AQUI)
+- [Repositório GitHub](https://github.com/lucassdolci/Case-Financeiro)
 
 ## Estrutura do Projeto
 - `data/` — script de criação e população do banco de dados
@@ -61,8 +61,8 @@ entender suas causas e propor recomendações baseadas em dados.
 - Power BI — visualização e dashboard
 
 ## Links
-- 📊 [Portfólio no Notion](https://lean-sandpaper-fc5.notion.site/Case-Financeiro-3408f115aff58067983cee99404fe407)
-- 💻 [Repositório GitHub](https://github.com/lucassdolci/Case-Financeiro)
+- [Portfólio no Notion](https://lean-sandpaper-fc5.notion.site/Case-Financeiro-3408f115aff58067983cee99404fe407)
+- [Repositório GitHub](https://github.com/lucassdolci/Case-Financeiro)
 
 ## Estrutura do Projeto
 - `data/` — script de criação e população do banco de dados
