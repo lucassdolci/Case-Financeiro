@@ -26,15 +26,15 @@ entender suas causas e propor recomendações baseadas em dados.
 ## Dashboard
 
 ### Visão Geral — Receita Mensal
-![Visão Geral](dashboard/prints/01_visao_geral.png)
+![Visão Geral](dashboard/prints/01_visão_geral.png)
 A receita cresceu de janeiro a junho e caiu 85% em julho, totalizando R$2.892 de queda em valor bruto.
 
 ### Churn — Cancelamentos por Plano
-![Churn](dashboard/prints/02_churn_planos.png)
+![Churn](dashboard/prints/02_clientes_ltv.png)
 O Pro lidera cancelamentos com 3 ocorrências, mas o churn não foi o responsável pela queda de julho, o problema é sistêmico entre os planos.
 
 ### Clientes — LTV e Ticket Médio
-![Clientes](dashboard/prints/03_clientes_ltv.png)
+![Clientes](dashboard/prints/03_churn_planos.png)
 Empresa Delta é o cliente mais valioso, com LTV 33% acima do segundo colocado. O plano Enterprise gera 6x mais receita por cliente que o Basic.
 
 ### Causa Raiz — Receita por Plano
