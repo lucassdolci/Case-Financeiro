@@ -12,9 +12,9 @@ A empresa tinha uma queda brusca de receita em julho e a hipótese inicial era c
 
 ## Ferramentas
 
-MySQL — extração e análise dos dados
+MySQL: extração e análise dos dados
 
-Power BI — visualização e dashboard
+Power BI: visualização e dashboard
 
 ## O que os dados mostraram
 
